@@ -1,5 +1,5 @@
-# Introduction
+# INTRODUCTION
 
-Maven, a Yiddish word meaning accumulator of knowledge, began as an attempt to simplify the build processes in the Jakarta Turbine project. There were several projects, each with their own Ant build files, that were all slightly different. JARs were checked into CVS. We wanted a standard way to build the projects, a clear definition of what the project consisted of, an easy way to publish project information, and a way to share JARs across several projects.
+MAVEN, A YIDDISH WORD MEANING ACCUMULATOR OF KNOWLEDGE, BEGAN AS AN ATTEMPT TO SIMPLIFY THE BUILD PROCESSES IN THE JAKARTA TURBINE PROJECT. THERE WERE SEVERAL PROJECTS, EACH WITH THEIR OWN ANT BUILD FILES, THAT WERE ALL SLIGHTLY DIFFERENT. JARS WERE CHECKED INTO CVS. WE WANTED A STANDARD WAY TO BUILD THE PROJECTS, A CLEAR DEFINITION OF WHAT THE PROJECT CONSISTED OF, AN EASY WAY TO PUBLISH PROJECT INFORMATION, AND A WAY TO SHARE JARS ACROSS SEVERAL PROJECTS.
 
-The result is a tool that can now be used for building and managing any Java-based project. We hope that we have created something that will make the day-to-day work of Java developers easier and generally help with the comprehension of any Java-based project.
+THE RESULT IS A TOOL THAT CAN NOW BE USED FOR BUILDING AND MANAGING ANY JAVA-BASED PROJECT. WE HOPE THAT WE HAVE CREATED SOMETHING THAT WILL MAKE THE DAY-TO-DAY WORK OF JAVA DEVELOPERS EASIER AND GENERALLY HELP WITH THE COMPREHENSION OF ANY JAVA-BASED PROJECT.
